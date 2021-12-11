@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Wait_Icon" data-name="Wait Icon" transform="translate(-690 -135)">
+    <circle id="Elipse_105" data-name="Elipse 105" cx="20" cy="20" r="20" transform="translate(690 135)" fill="#00adef"/>
+    <g id="Grupo_269" data-name="Grupo 269" transform="translate(528.64 -106.36)">
+      <g id="Elipse_106" data-name="Elipse 106" transform="translate(171.36 251.36)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2.2">
+        <circle cx="10" cy="10" r="10" stroke="none"/>
+        <circle cx="10" cy="10" r="11.1" fill="none"/>
+      </g>
+      <path id="Trazado_493" data-name="Trazado 493" d="M180,253.614v6.775l4.482,3.309" transform="translate(1.36 1.171)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.3"/>
+    </g>
+  </g>
+</svg>
